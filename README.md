@@ -1,6 +1,6 @@
 # Redesigning Democracy
 
-## I get it
+## History
 
 We’ve been doing this for a long time. And in the era where this concept first occurred, we were not at all as connected as we are today. We needed the fellow from our town, community, county to speak our words for us. The thing is: we don’t anymore.
 
